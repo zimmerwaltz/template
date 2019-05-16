@@ -1,0 +1,4 @@
+/* The main css file which is included in the header */
+@import url('animate.css');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500');
+@import url('style.css');
